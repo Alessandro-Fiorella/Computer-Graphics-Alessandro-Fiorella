@@ -1,0 +1,12 @@
+# File di backup di Blender
+*.blend1
+*.blned2
+*.crash.txt
+
+# Cartelle di Render
+/renders/
+/output/
+
+# File di sistema
+.DS_Store
+Thumbs.db
